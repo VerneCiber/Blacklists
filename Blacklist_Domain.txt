@@ -13,4 +13,3 @@ d8fkjd2z9mouq.cloudfront.net
 d22g8hm4svq46j.cloudfront.net
 d3i3wvt6f8lwyr.cloudfront.net
 d1w5drh895wnkz.cloudfront.net
-test.com
