@@ -13,3 +13,11 @@ d8fkjd2z9mouq.cloudfront.net
 d22g8hm4svq46j.cloudfront.net
 d3i3wvt6f8lwyr.cloudfront.net
 d1w5drh895wnkz.cloudfront.net
+blog.eduelects.com
+cdn.mirror-codes.net
+eduelects.com
+mirror-codes.net
+news.thaprior.net
+status.sublineover.net
+sublineover.net
+thaprior.net
