@@ -50,3 +50,6 @@ clickadusweep.vip
 enter.testclicktds.xyz
 zeroexit.xyz
 zero.testtrack.xyz
+theyardservice.com
+worldhomeoutlet.com
+refreshauthtoken-default-rtdb.firebaseio.com
