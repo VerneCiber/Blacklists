@@ -53,3 +53,6 @@ zero.testtrack.xyz
 theyardservice.com
 worldhomeoutlet.com
 refreshauthtoken-default-rtdb.firebaseio.com
+desklop.pc-whatisapp.com
+pc-whatisapp.com
+jasafodidei.xyz
