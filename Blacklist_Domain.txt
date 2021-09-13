@@ -108,3 +108,5 @@ rhwkdlaktm.atwebpages.com
 dktkglrkshqhfn.atwebpages.com 
 dkekftks.atwebpages.com 
 sb.qrfy.net
+cdn.cloudfiare.workers.dev
+update.facebookint.workers.dev
