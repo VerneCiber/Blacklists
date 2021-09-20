@@ -110,3 +110,15 @@ dkekftks.atwebpages.com
 sb.qrfy.net
 cdn.cloudfiare.workers.dev
 update.facebookint.workers.dev
+idgerowner.duckdns.org
+str-master.pw
+office365.dc-microsoft.workers.dev
+office365.microsoft-cloud.workers.dev
+asia.office365-cloud.workers.dev
+eu.microsoft-365.workers.dev
+api.office365online.workers.dev
+mirror.advancestore.workers.dev
+fetrikekke531.workers.dev
+virustotall-360d.fetrikekke531.workers.dev
+documents.publicserver.workers.dev
+cloud.digitalstorage.workers.dev
