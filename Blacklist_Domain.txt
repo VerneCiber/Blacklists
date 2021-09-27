@@ -122,3 +122,5 @@ fetrikekke531.workers.dev
 virustotall-360d.fetrikekke531.workers.dev
 documents.publicserver.workers.dev
 cloud.digitalstorage.workers.dev
+iterm2.net
+kaidingle.com
