@@ -124,3 +124,5 @@ documents.publicserver.workers.dev
 cloud.digitalstorage.workers.dev
 iterm2.net
 kaidingle.com
+whatleaks.com
+gwrg23445b235245ner.mcdir.me
