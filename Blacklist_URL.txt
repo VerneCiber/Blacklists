@@ -76,3 +76,17 @@ http://172.107.133.201:20027
 https://citationsherbe.at/sdd.dll
 http://159.148.186.228/download/jsextension
 http://159.148.186.228/download/jsextension.exe
+http://194.85.248.176/bins/eh.x86
+http://194.85.248.176/bins/eh.mips
+http://194.85.248.176/bins/eh.mpsl
+http://194.85.248.176/bins/eh.arm4
+http://194.85.248.176/bins/eh.arm5
+http://194.85.248.176/bins/eh.arm6
+http://194.85.248.176/bins/eh.arm7
+http://194.85.248.176/bins/eh.ppc
+http://194.85.248.176/bins/eh.m68k
+http://194.85.248.176/bins/eh.sh4
+http://194.85.248.176/bins/eh.86_64
+http://194.85.248.176/local.sh
+http://194.85.248.176/tshit.sh
+http://2.56.59.215/apache2.sh
