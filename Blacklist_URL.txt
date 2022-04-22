@@ -182,3 +182,4 @@ https://jonathanhardwick.me/hardwick.jar
 https://jonathanhardwick.me/config.txt
 https://gaymers.ax/mafia/login.php
 http://verble.software/styles.jar
+http://panelss.xyz/Stealer/TSave
