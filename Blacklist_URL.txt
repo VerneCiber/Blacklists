@@ -183,3 +183,15 @@ https://jonathanhardwick.me/config.txt
 https://gaymers.ax/mafia/login.php
 http://verble.software/styles.jar
 http://panelss.xyz/Stealer/TSave
+http://136.144.41.169/wget.sh
+http://136.144.41.169/WW9mdWthc2hp.arm
+http://136.144.41.169/WW9mdWthc2hp.arm5
+http://136.144.41.169/WW9mdWthc2hp.arm6
+http://136.144.41.169/WW9mdWthc2hp.arm7
+http://136.144.41.169/WW9mdWthc2hp.m68k
+http://136.144.41.169/WW9mdWthc2hp.mips
+http://136.144.41.169/WW9mdWthc2hp.mpsl
+http://136.144.41.169/WW9mdWthc2hp.ppc
+http://136.144.41.169/WW9mdWthc2hp.sh4
+http://136.144.41.169/WW9mdWthc2hp.spc
+http://136.144.41.169/WW9mdWthc2hp.x8
