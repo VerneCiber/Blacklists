@@ -201,3 +201,9 @@ https://semiconductboard.com/xml
 https://semiconductboard.com/xcror
 http://cyancow.com/find
 https://bluedragon.com/login
+http://febenvi.duckdns.org:2050/
+http://wins10.duckdns.org:57831/
+http://185.136.171.110/dll/cursodll.txt
+http://185.136.171.110/p/cursope.txt
+http://91.241.19.49/test/new/WX1.txt
+https://bit.ly/3hefcI3
