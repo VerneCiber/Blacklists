@@ -224,3 +224,7 @@ www.minzdravros.com
 cintepol.link
 ns1.cintepol.link
 ns2.cintepol.link
+star-cz.ddns.net
+eohsdnsaaojrhnqo.windowshost.us
+storage.ondriev.tk 
+api.onedriev.tk
