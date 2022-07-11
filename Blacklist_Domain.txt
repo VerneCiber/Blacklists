@@ -228,3 +228,5 @@ star-cz.ddns.net
 eohsdnsaaojrhnqo.windowshost.us
 storage.ondriev.tk 
 api.onedriev.tk
+webcamer.com.br 
+citydesconto.com.br
